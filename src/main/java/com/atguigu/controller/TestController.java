@@ -6,5 +6,7 @@ package com.atguigu.controller;
  */
 public class TestController {
 
-
+    public  void Test(){
+        System.out.println("hafefae试3");
+    }
 }
